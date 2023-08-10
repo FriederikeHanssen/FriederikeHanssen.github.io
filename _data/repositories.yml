@@ -1,12 +1,7 @@
-github_users:
-  - torvalds
-  - alshedivat
+# github_users:
+#   - FriederikeHanssen
 
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+# github_repos:
+#   - nf-core/sarek
+#   - nf-core/bamtofastq
+#   - qbic-pipelines/createpanelofnormals
