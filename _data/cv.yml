@@ -54,7 +54,9 @@
     - title: Bachelor of Science
       institution: <a href="https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transcriptomics/home/">Integrative Transcriptomics, University of Tübingen, Tübingen, Germany</a>
       year: 2013 - 2017
-      description: <i>'Implementation of a tool for masking repetitive sequences'</i>
+      description:
+        - Exchange semester at University of Alaska, Fairbanks (Aug - Dec 2015)
+        - <i>'Implementation of a tool for masking repetitive sequences'</i>
 
 - title: Open Source Projects
   type: time_table
