@@ -5,7 +5,7 @@ permalink: /talks/
 description:
 nav: true
 nav_order: 2
-display_categories: [talks, fun]
+display_categories: [talks, poster]
 horizontal: false
 ---
 
