@@ -11,6 +11,13 @@
     - name: Languages
       value: German (native), English (fluent)
 
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/nf-core/sarek">nf-core/sarek</a>
+      year: 2020 - Present
+      description: A best-practice Nextflow pipeline for germline and somatic variant calling
+
 - title: Work
   type: time_table
   contents:
@@ -35,9 +42,9 @@
       description:
         - Foundations in Bioinformatics
         - Math for Informaticians III
-    - title: Au Pair
-      institution: Au Pair Care, Kirkland, WA, USA
-      year: 2011.08 - 2013.06
+    # - title: Au Pair
+    #   institution: Au Pair Care, Kirkland, WA, USA
+    #   year: 2011.08 - 2013.06
 
 - title: Education
   type: time_table
@@ -57,13 +64,6 @@
       description:
         - Exchange semester at University of Alaska, Fairbanks (Aug - Dec 2015)
         - <i>'Implementation of a tool for masking repetitive sequences'</i>
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/nf-core/sarek">nf-core/sarek</a>
-      year: 2020 - Present
-      description: A best-practice Nextflow pipeline for germline and somatic variant calling
 
 # - title: Academic Interests
 #   type: nested_list
