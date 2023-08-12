@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: projects
 permalink: /projects/
@@ -10,15 +10,15 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<div class="projects">
+<!-- <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
+  <!-- {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+  Generate cards for each project -->
+  <!-- {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
@@ -33,13 +33,13 @@ horizontal: false
     {%- endfor %}
   </div>
   {%- endif -%}
-  {% endfor %}
+  {% endfor %} -->
 
-{%- else -%}
+<!-- {%- else -%} -->
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- {%- assign sorted_projects = site.projects | sort: "importance" -%} -->
   <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
+  <!-- {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
@@ -55,4 +55,4 @@ horizontal: false
   </div>
   {%- endif -%}
 {%- endif -%}
-</div>
+</div> -->
