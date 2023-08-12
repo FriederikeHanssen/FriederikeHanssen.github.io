@@ -1,101 +1,116 @@
-{
-  "basics": {
-    "name": "Friederie Hanssen",
-    "label": "PhD Student",
-    "image": "",
-    "email": "friederike.hanssen@qbic.uni-tuebingen.de",
-    "url": "https://FriederikeHanssen.github.io",
-    "summary": "PhD student at the Quantitative Biology Center in Tübingen. Mostly working on nf-core/sarek and several other pipelines, AWS cloud computing, and data analysis projects in oncology. Part of the nf-core core team.",
-    "location": {
-      "city": "Tübingen",
-      "countryCode": "Germany"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "RikeHanssen",
-        "url": "https://twitter.com/RikeHanssen"
-      }
-    ]
-  },
-  "work": [
-    {
-      "name": "Au Pair Care",
-      "position": "Au Pair",
-      "startDate": "2011-08-01",
-      "endDate": "2013-06-01",
-      "highlights": [
-        "Au Pair in Kirkland, WA"
-      ]
-    },
-    {
-      "name": "University of Tübingen, Tübingen, Germany",
-      "position": "PhD Student",
-      "url": "https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/",
-      "startDate": "2019-08-01",
-      "highlights": [
-        "Nextflow workflows",
-        "nf-core/sarek"
-      ]
-    },
-    {
-      "name": "University of Tübingen, Tübingen, Germany",
-      "position": "Deputy Team Leader 'Research & Development in Data Science'",
-      "url": "https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/",
-      "startDate": "2022-11-01"
-    }
-  ],
-  "volunteer": [],
-  "education": [
-    {
-      "institution": "University of Tübingen, Tübingen, Germany",
-      "url": "https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/",
-      "area": "Workflow Development with Nextflow and nf-core, cloud computing, data analysis",
-      "studyType": "PhD Student",
-      "startDate": "2019-08-01",
-      "endDate": ""
-    },
-    {
-      "institution": "University of Tübingen, Tübingen, Germany",
-      "url": "https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transcriptomics/theses/completed-theses/completed-master-theses/#c1730368",
-      "area": "Genome architecture-aware mapping using the SuperGenome",
-      "studyType": "Master of Science",
-      "startDate": "2017-04-01",
-      "endDate": "2019-02-28",
-      "score": "1.1"
-    },
-    {
-      "institution": "University of Tübingen, Tübingen, Germany",
-      "url": "https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transcriptomics/theses/completed-theses/completed-bachelor-theses/#c1730470",
-      "area": "Implementation of a tool for masking repetitive sequences",
-      "studyType": "Bachelor of Science",
-      "startDate": "2013-10",
-      "endDate": "2017-02",
-      "score": "1.0"
-    }
-  ],
-  "certificates": [],
-  "publications": [],
-  "skills": [],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent"
-    }
-  ],
-  "interests": [
-    {
-      "highlights": [
-      "hiking",
-      "knitting",
-      "dancing"
-      ]
-    }
-  ],
-  "references": [],
-  "projects": []
-}
+// {
+//   "basics": {
+//     "name": "Friederie Hanssen",
+//     "label": "PhD Student",
+//     "image": "",
+//     "email": "friederike.hanssen@qbic.uni-tuebingen.de",
+//     "url": "https://FriederikeHanssen.github.io",
+//     "summary": "PhD student at the Quantitative Biology Center in Tübingen. Mostly working on nf-core/sarek and several other pipelines, AWS cloud computing, and data analysis projects in oncology. Part of the nf-core core team.",
+//     "location": {
+//       "city": "Tübingen",
+//       "countryCode": "Germany"
+//     },
+//     "profiles": [
+//       {
+//         "network": "Twitter",
+//         "username": "RikeHanssen",
+//         "url": "https://twitter.com/RikeHanssen"
+//       }
+//     ]
+//   },
+//   "work": [
+//     {
+//       "name": "Au Pair Care, Kirkland, WA, USA",
+//       "position": "Au Pair",
+//       "startDate": "2011-08-01",
+//       "endDate": "2013-06-01"
+//     },
+//     {
+//       "name": "University of Tübingen, Tübingen, Germany",
+//       "position": "Tutor",
+//       "startDate": "2016-10-01",
+//       "endDate": "2017-07-31"
+//       "highlights": [
+//          Math for Informaticians III,
+//          Foundations in Bioinformatics
+//       ]
+//     },
+//     {
+//       "name": "Quantitative Biology Center, Tübingen, Germany",
+//       "position": "Student assistant in the ITSS team",
+//       "startDate": "2017-09-01",
+//       "endDate": "2019-08-01",
+//       "highlights": [
+//         "https://github.com/qbicsoftware/printergarden",
+//         "qbicsoftware/statisticscli",
+//         "qbicsoftware/statistics-portlet"
+//       ]
+//     },
+//     {
+//       "name": "Quantitative Biology Center, University of Tübingen,Tübingen, Germany",
+//       "position": "PhD Student",
+//       "url": "https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/",
+//       "startDate": "2019-08-01",
+//       "highlights": [
+//         "Nextflow workflows",
+//         "nf-core/sarek",
+//         "cloud computing"
+//       ]
+//     },
+//     {
+//       "name": "Quantitative Biology Center, Tübingen, Germany",
+//       "position": "Deputy Team Leader 'Research & Development in Data Science'",
+//       "url": "https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/",
+//       "startDate": "2022-11-01"
+//     }
+//   ],
+//   "volunteer": [],
+//   "education": [
+//     {
+//       "institution": "Quantitative Biology Center, University of Tübingen, Tübingen, Germany",
+//       "url": "https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/",
+//       "area": "Workflow Development with Nextflow and nf-core, cloud computing, data analysis",
+//       "studyType": "PhD Student",
+//       "startDate": "2019-08-01",
+//       "endDate": ""
+//     },
+//     {
+//       "institution": "University of Tübingen, Tübingen, Germany",
+//       "url": "https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transcriptomics/theses/completed-theses/completed-master-theses/#c1730368",
+//       "area": "Genome architecture-aware mapping using the SuperGenome",
+//       "studyType": "Master of Science",
+//       "startDate": "2017-04-01",
+//       "endDate": "2019-02-28",
+//       "score": "1.1"
+//     },
+//     {
+//       "institution": "University of Tübingen, Tübingen, Germany",
+//       "url": "https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transcriptomics/theses/completed-theses/completed-bachelor-theses/#c1730470",
+//       "area": "Implementation of a tool for masking repetitive sequences",
+//       "studyType": "Bachelor of Science",
+//       "startDate": "2013-10",
+//       "endDate": "2017-02",
+//       "score": "1.0"
+//     }
+//   ],
+//   "certificates": [],
+//   "publications": [],
+//   "skills": [],
+//   "languages": [
+//     {
+//       "language": "German",
+//       "fluency": "Native speaker"
+//     },
+//     {
+//       "language": "English",
+//       "fluency": "Fluent"
+//     }
+//   ],
+//   "interests": [
+//     {
+//       "name": "hiking,knitting,dancing"
+//     }
+//   ],
+//   "references": [],
+//   "projects": []
+// }
