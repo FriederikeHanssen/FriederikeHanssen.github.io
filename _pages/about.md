@@ -19,7 +19,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Student at the Quantitative Biology Center in Tuebingen, Germany. I spent most of my time developing nf-core/sarek.
+I am a PhD Student at the Quantitative Biology Center in Tuebingen, Germany. I spent most of my time developing [nf-core/sarek](nf-co.re/sarek) and contributing to the [nf-core](nf-co.re) project.
 
 <!--
 and Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
