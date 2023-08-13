@@ -13,6 +13,81 @@ layout: default
             {{ content }}
           </article>
 
+          {% if page.my_date %}
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <div class="row">
+                <div class="col-12 col-md-3 pub-row-heading"><b>Date</b></div>
+                <div class="col-12 col-md-9">
+                  {{ page.my_date }}
+                </div>
+              </div>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+          <div class="d-md-none space-below"></div>
+          {% endif %}
+
+          {% if page.event %}
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <div class="row">
+                <div class="col-12 col-md-3 pub-row-heading"><b>Event</b></div>
+                <div class="col-12 col-md-9">
+                  {{ page.event }}
+                 </div>
+               </div>
+             </div>
+          <div class="col-md-1"></div>
+          </div>
+          <div class="d-md-none space-below"></div>
+          {% endif %}
+
+          {% if page.location %}
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <div class="row">
+                <div class="col-12 col-md-3 pub-row-heading"><b>Location</b></div>
+                <div class="col-12 col-md-9">
+                  {{ page.location }}
+                </div>
+               </div>
+             </div>
+          <div class="col-md-1"></div>
+          </div>
+          <div class="d-md-none space-below"></div>
+          {% endif %}
+
+          {% if page.pdf %}
+            <br>
+            <a href="{{ page.pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-left"><i class="fa-regular fa-file-pdf fa-2xl"></i></a>
+            <br>
+          {% endif %}
+
+          {% if page.video %}
+            <br>
+            <div class="row justify-content-sm-center">
+              <iframe width="966" height="543" src={{ page.video }}
+                frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen>
+              </iframe>
+            </div>
+            <br>
+          {% endif %}
+
+          {% if page.slides %}
+            <br>
+            <div class="row justify-content-sm-center">
+              <iframe src={{ page.slides }} frameborder="0" width="960" height="569"
+                allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+              </iframe>
+            </div>
+            <br>
+          {% endif %}
+
           {%- if page.related_publications != null and page.related_publications.size > 0 -%}
           {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
           <h2>References</h2>
