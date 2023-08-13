@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Student at the Quantitative Biology Center in Tuebingen, Germany. I spent most of my time developing [nf-core/sarek](https://nf-co.re/sarek) and contributing to the [nf-core](https://nf-co.re) project.
+I am a PhD Student at the Quantitative Biology Center in Tuebingen, Germany. I spent most of my time developing [nf-core/sarek](https://nf-co.re/sarek) and contributing to the [nf-core](https://nf-co.re) project. I am also involved in several data analysis projects revolving around variant analysis in oncology. Since November 2022, I am the deputy team leader for the research and development group.
 
 <!--
 and Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
