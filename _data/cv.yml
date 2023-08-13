@@ -8,7 +8,7 @@
     - name: Email
       value: friederike.hanssen@qbic.uni-tuebingen.de
     - name: Summary
-      value: Mostly working on <a href="https://nf-co.re/sarek">nf-core/sarek</a> and several other pipelines, AWS cloud computing, and data analysis projects in oncology. Part of the <a href="https://nf-co.re/">nf-core</a> core team.
+      value: Mostly working on <a href="https://nf-co.re/sarek">nf-core/sarek</a> and several other pipelines, AWS cloud computing, and data analysis projects in oncology involving variant calling. Part of the <a href="https://nf-co.re/">nf-core</a> core team.
     - name: Languages
       value: German (native), English (fluent)
 
@@ -29,7 +29,7 @@
       institution: <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Quantitative Biology Center, Tübingen, Germany</a>
       year: 2019.08 - PRESENT
       description:
-        - Nextflow workflows, <a href="https://nf-co.re/sarek">nf-core/sarek</a>, cloud computing
+        - Nextflow workflows, <a href="https://nf-co.re/sarek">nf-core/sarek</a>, cloud computing, data analysis in oncology
     - title: Student assistant in the ITSS team
       institution: <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Quantitative Biology Center, Tübingen, Germany</a>
       year: 2017.09 - 2019.07
@@ -53,8 +53,6 @@
     - title: PhD Student
       institution: <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Quantitative Biology Center, Tübingen, Germany</a>
       year: 2019.08 - Present
-      description:
-        - Workflow Development with Nextflow and nf-core, cloud computing, data analysis
     - title: Master of Science
       institution: <a href="https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/integrative-transcriptomics/home/">Integrative Transcriptomics, University of Tübingen, Tübingen, Germany</a>
       year: 2017 - 2019
