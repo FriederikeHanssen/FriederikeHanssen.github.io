@@ -34,8 +34,8 @@
       institution: <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Quantitative Biology Center, Tübingen, Germany</a>
       year: 2017.09 - 2019.07
       description:
-        - <a href="https://github.com/qbicsoftware/printergarden">Printer Garden</a>
-        - <a href="https://github.com/qbicsoftware/statisticscli">Statistics CLI</a>
+        - <a href="https://github.com/qbicsoftware/printer-garden-portlet">Printer Portlet</a>
+        - <a href="https://github.com/qbicsoftware/statistics-cli">Statistics CLI</a>
         - <a href="https://github.com/qbicsoftware/statistics-portlet">Statistics Portlet</a>
     - title: Tutor
       institution: University of Tübingen, Tübingen, Germany
