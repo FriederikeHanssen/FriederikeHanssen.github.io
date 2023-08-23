@@ -17,7 +17,7 @@
   contents:
     - title: <a href="https://github.com/nf-core/sarek">nf-core/sarek</a>
       year: 2020 - Present
-      description: A best-practice Nextflow pipeline for germline and somatic variant calling
+      description: Main developer of nf-core/sarek, a best-practice Nextflow pipeline for germline and somatic variant calling
 
 - title: Work
   type: time_table
@@ -29,14 +29,18 @@
       institution: <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Quantitative Biology Center, Tübingen, Germany</a>
       year: 2019.08 - PRESENT
       description:
-        - Nextflow workflows, <a href="https://nf-co.re/sarek">nf-core/sarek</a>, cloud computing, data analysis in oncology
+        - Nextflow workflow development, <a href="https://nf-co.re/sarek">nf-core/sarek</a> optimization, cloud computing on AWS
+        - Data analysis projects in oncology involving variant calling with nf-core/sarek, custom visualisation in R, and data management
+        - Organization of a  <a href="https://www.youtube.com/watch?v=zfBhRqEr1h8&list=PLQiBVyeof79voSgzbLIp3Yp_JpWcpIdqc">Tech talk series</a>, a bi-monthly talk series with invited speakers covering various bio-informatics topics
     - title: Student assistant in the ITSS team
       institution: <a href="https://uni-tuebingen.de/forschung/forschungsinfrastruktur/zentrum-fuer-quantitative-biologie-qbic/team/">Quantitative Biology Center, Tübingen, Germany</a>
       year: 2017.09 - 2019.07
       description:
-        - <a href="https://github.com/qbicsoftware/printer-garden-portlet">Printer Portlet</a>
-        - <a href="https://github.com/qbicsoftware/statistics-cli">Statistics CLI</a>
-        - <a href="https://github.com/qbicsoftware/statistics-portlet">Statistics Portlet</a>
+        - title: Implementation of portlets using Vaadin for a liferay-based <a href="https://portal.qbic.uni-tuebingen.de/portal/">portal</a>
+          contents:
+            - <a href="https://github.com/qbicsoftware/printer-garden-portlet">Printer Portlet</a>
+            - <a href="https://github.com/qbicsoftware/statistics-cli">Statistics CLI</a>
+            - <a href="https://github.com/qbicsoftware/statistics-portlet">Statistics Portlet</a>
     - title: Tutor
       institution: University of Tübingen, Tübingen, Germany
       year: 2016.10 - 2017.08
