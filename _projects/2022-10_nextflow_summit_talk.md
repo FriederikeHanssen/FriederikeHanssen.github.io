@@ -2,7 +2,7 @@
 layout: page
 title: Nextflow Summit 2022
 description: "nf-core/sarek: a pipeline for germline and somatic variant calling"
-importance: 4
+importance: 5
 year: 2022
 category: talks
 related_publications: hanssen2023scalable

@@ -2,7 +2,7 @@
 layout: page
 title: Bioinformatics in Cancer Research 2021
 description: "Bioinformatics analyses with portable and reproducible pipelines on public data"
-importance: 6
+importance: 7
 year: 2021
 category: talks
 tags: data-analysis workflows nf-core

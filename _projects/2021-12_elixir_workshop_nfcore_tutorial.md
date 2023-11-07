@@ -2,7 +2,7 @@
 layout: page
 title: Elixir workshop 2021
 description: "nf-core tutorial"
-importance: 5
+importance: 6
 year: 2021
 category: talks
 tags: nf-core best-practice tutorial

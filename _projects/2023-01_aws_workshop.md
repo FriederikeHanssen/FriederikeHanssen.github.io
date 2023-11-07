@@ -2,7 +2,7 @@
 layout: page
 title: AWS Workshop 2023
 description: "nf-core/sarek: a for germline and somatic variant calling pipeline"
-importance: 3
+importance: 4
 year: 2023
 category: talks
 related_publications: hanssen2023scalable
